@@ -1,0 +1,13 @@
+{
+	"id" : "hyeendiary",
+	"title" : "Brief Hyeen History",
+	"description" : "A short retelling of how Hyeen came to The Milky Way.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "The Hyeen have been known for their engineering. As far as the Hyeen homeworld was concerned, more capital intentions were in mind. FenTek, a planetary superpower in scientific endevours do everything to make sure that their competition are supressed, to the point there can never be privately owned space-fairing ships. While it may have caused the fall of many ship manufacturing companies within Hyeen systems, many skilled individuals were not to be detered by these develpments, and were able to construct their own ships using much of the excess scrap vehicles that were a result of pile-up. Many of these managed to help the immigration of many Hyeen who were seeking new planets. One of which happened to be Earth."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

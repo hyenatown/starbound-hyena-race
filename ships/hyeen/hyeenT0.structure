@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "hyeenT1.png",
+      "position" : [6, 11],
+      "fullbright" : true
+    },
+    {
+      "image" : "hyeenT1lit.png",
+      "position" : [6, 11]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "hyeenT0blocks.png"
+}

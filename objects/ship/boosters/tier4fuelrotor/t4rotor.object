@@ -1,0 +1,27 @@
+{
+  "objectName" : "t4rotor",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "scannable" : false,
+  "description" : "Wait, you're not supposed to have this.",
+  "shortdescription" : "T4Rotor",
+  "race" : "hyeen",
+
+  "inventoryIcon" : "t4rotoricon.png",
+  "orientations" : [
+    {
+      "image" : "t4rotor.png:<color>.<frame>",
+      "imagePosition" : [-7, -6],
+	  "frames" : 4,
+	  "animationCycle" : 0.3,
+	  "fullbright" : true,
+      "direction" : "right",
+      "animationPosition" : [-7, -6],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "interactive" : false
+
+}

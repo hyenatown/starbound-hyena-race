@@ -1,0 +1,8 @@
+{
+  "name" : "mint",
+  "category" : "hyeenpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "mint.png"
+  }
+}

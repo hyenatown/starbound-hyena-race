@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/hyeen",
+		"value" : [
+		    "/ships/hyeen/hyeent0.structure",
+			"/ships/hyeen/hyeent1.structure",
+			"/ships/hyeen/hyeent2.structure",
+			"/ships/hyeen/hyeent3.structure",
+			"/ships/hyeen/hyeent4.structure",
+			"/ships/hyeen/hyeent5.structure",
+			"/ships/hyeen/hyeent6.structure",
+			"/ships/hyeen/hyeent7.structure",
+			"/ships/hyeen/hyeent8.structure"
+		]
+	}
+]

@@ -1,0 +1,8 @@
+{
+  "name" : "yellow",
+  "category" : "hyeenpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "yellow.png"
+  }
+}

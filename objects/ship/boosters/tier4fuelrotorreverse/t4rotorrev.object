@@ -1,0 +1,27 @@
+{
+  "objectName" : "t4rotorrev",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "scannable" : false,
+  "description" : ".siht evah ot desoppus ton er'uoy ,tiaW",
+  "shortdescription" : "T4RotorReverse",
+  "race" : "hyeen",
+
+  "inventoryIcon" : "t4rotorrevicon.png",
+  "orientations" : [
+    {
+      "image" : "t4rotorrev.png:<color>.<frame>",
+      "imagePosition" : [-7, -6],
+	  "frames" : 4,
+	  "animationCycle" : 0.3,
+	  "fullbright" : true,
+      "direction" : "right",
+      "animationPosition" : [-7, -6],
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "interactive" : false
+
+}

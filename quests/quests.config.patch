@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/hyeen",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/hyeen",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

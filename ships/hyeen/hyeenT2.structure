@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel"],
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "hyeenT2.png",
+      "position" : [6, 11],
+      "fullbright" : true
+    },
+    {
+      "image" : "hyeenT2lit.png",
+      "position" : [6, 11]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "hyeenT2blocks.png"
+}

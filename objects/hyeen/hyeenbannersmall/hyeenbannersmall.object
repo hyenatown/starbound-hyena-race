@@ -1,0 +1,29 @@
+{
+  "objectName" : "hyeenbannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A small hyeen wallbanner from a hyeen academy.",
+  "shortdescription" : "Small hyeen Wall Banner",
+  "race" : "hyeen",
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small hyeen banner...",
+  "humanDescription" : "The hyeen banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "hyeenDescription" : "I am so happy to see the hyeen culture thrive",  
+  "inventoryIcon" : "hyeenbannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "hyeenbannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

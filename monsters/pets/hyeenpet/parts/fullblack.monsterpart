@@ -1,0 +1,8 @@
+{
+  "name" : "fullblack",
+  "category" : "hyeenpet",
+  "type" : "body",
+  "frames" : {
+    "body" : "fullblack.png"
+  }
+}

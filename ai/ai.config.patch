@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/hyeen",
+		"value" : {
+			"aiFrames" : "hyeenAI.png",
+			"portraitFrames" : "portraits/hyeenportrait.png",
+			"staticFrames" : "statichyeen.png"	
+		}
+	}
+]
