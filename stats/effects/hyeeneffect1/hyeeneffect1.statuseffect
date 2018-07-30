@@ -1,6 +1,10 @@
 {
   "name" : "hyeeneffect1",
-  "effectConfig" : {},
+  "effectConfig" : {
+    "healTime" : 10
+  },
+  "scripts" : [ "ewww.lua" ],
+  "effectDuration" : 10,
   "animationConfig" : "hyeeneffect1.animation",
   "label" : "Ewwww",
   "icon" : "hyeeneft1icon.png"

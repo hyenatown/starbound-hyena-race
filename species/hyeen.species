@@ -8,7 +8,7 @@
 
   "nameGen" : [ "/species/hyeennamegen.config:names", "/species/hyeennamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/hyeenhurt_male1.ogg", "/sfx/humanoid/hyeenhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Floof colour", "Hair colour", "Shirt colour", "Legwear colour", "Hyeen", "Personality" ],
+  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Floof colour", "Hair colour", "Shirt colour", "Legwear colour", "HYEEN", "Personality" ],
   "skull" : "/humanoid/hyeen/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
 
@@ -81,12 +81,12 @@
       { "item" : "hyeenoutfit3legs" },
       { "item" : "hyeenoutfit4chest" },
       { "item" : "hyeenoutfit4legs" },
-	  
-      { "item" : "hyeenmerchant" }  
-	  
+
+      { "item" : "hyeenmerchant" }
+
     ]
   },
-  
+
   "altOptionAsUndyColor" : true,
   "headOptionAsHairColor" : true,
   "altOptionAsHairColor" : true,
@@ -116,7 +116,7 @@
       "facialMask" : [ ]
     }
   ],
-  
+
   "bodyColor" : [
     { "956846" : "838183", "6d4c33" : "626562", "483a30" : "4a4c4a", "9f9f9f" : "313031", "656565" : "181818", "535353" : "000000" },
 	{ "956846" : "c5c2c5", "6d4c33" : "9c999c", "483a30" : "737173", "9f9f9f" : "4a4c4a", "656565" : "202420", "535353" : "000000" },
@@ -158,7 +158,7 @@
 	{ "956846" : "a4205a", "6d4c33" : "83184a", "483a30" : "5a0029", "9f9f9f" : "621039", "656565" : "410420", "535353" : "180408" },
 	{ "956846" : "de448b", "6d4c33" : "c52473", "483a30" : "8b0041", "9f9f9f" : "941852", "656565" : "620431", "535353" : "290010" }
   ],
-  
+
   "undyColor" : [
   	{ "00ff00" : "838183", "34aa34" : "626562", "3f693f" : "4a4c4a" },
 	{ "00ff00" : "c5c2c5", "34aa34" : "9c999c", "3f693f" : "737173" },
@@ -237,9 +237,9 @@
 	{ "00ff00" : "941894", "34aa34" : "620462", "3f693f" : "290029" },
 	{ "00ff00" : "4a2439", "34aa34" : "311420", "3f693f" : "180408" },
 	{ "00ff00" : "621039", "34aa34" : "410420", "3f693f" : "180408" },
-	{ "00ff00" : "941852", "34aa34" : "620431", "3f693f" : "290010" } 
+	{ "00ff00" : "941852", "34aa34" : "620431", "3f693f" : "290010" }
 	],
-	
+
   "hairColor" : [
 
     { "d9c189" : "E86D46", "a38d59" : "D1422E", "735e3a" : "96201B" },
