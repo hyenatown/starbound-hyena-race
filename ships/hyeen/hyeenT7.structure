@@ -8,12 +8,12 @@
   "backgroundOverlays" : [
     {
       "image" : "hyeenT7.png",
-      "position" : [-1, 4],
+      "position" : [-11, -2],
       "fullbright" : true
     },
     {
       "image" : "hyeenT7lit.png",
-      "position" : [-1, 4]
+      "position" : [-11, -2]
     }
   ],
   "blockKey" : "blockKey.config:blockKey",
