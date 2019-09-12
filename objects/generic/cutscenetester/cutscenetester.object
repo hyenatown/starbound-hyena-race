@@ -1,0 +1,23 @@
+{
+  "objectName" : "testbuddy",
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "friend",
+  "price" : 70,
+  "description" : "A friend.",
+  "shortdescription" : "Cutscene Tester",
+  "interactAction" : "PlayTestScene",
+  "interactData" : "/cinematics/respawn/hyeen/respawncasual_test.cinematic",
+  "orientations" : [
+    {
+      "image" : "testbuddy.png:<color>.<frame>",
+      "flipImages" : false,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
